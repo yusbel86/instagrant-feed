@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+}
+.content{    
+    margin: auto;
+    width: 500px;
+}
+.title{
+    height: 50px;
+    background-color:blue;
+    
+}
+.card{
+    border: 1px solid grey;
+}
+.header h3{
+    padding: 10px;
+}
+
+.img img{
+    max-width: 500px;
+}
+
